@@ -5,7 +5,7 @@
 - [Project Contents](#project-contents)
 - [Contact](#contact)
 
-## Introduction
+## Project Description
 This repository presents various state observers and estimators for linear systems (preferably controllable).
 It is based on state estimation theory and contains the following observers :
 - Open Loop Observer
